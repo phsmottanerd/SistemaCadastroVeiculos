@@ -28,4 +28,4 @@ Este sistema permite que você:
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/SistemaCadastroVeiculos.git
+https://github.com/phsmottanerd/SistemaCadastroVeiculos/tree/main
