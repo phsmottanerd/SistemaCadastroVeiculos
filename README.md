@@ -1,31 +1,31 @@
-# 🚗 SistemaCadastroVeiculos 🅿️
+# 🚗🅿️ **SistemaCadastroVeiculos** 🛠️✨
 
-> Projeto desenvolvido no bootcamp **WEX - End to End Engineering (91h)**, sistema simples para cadastro e controle de veículos em estacionamento.
-
----
-
-## 📋 Descrição
-
-Este sistema permite:
-
-- 🚙 **Adicionar veículos** pelo número da placa
-- 🛑 **Remover veículos** calculando o valor com base no tempo estacionado
-- 📄 **Listar veículos** atualmente no estacionamento
-
-Objetivo: praticar lógica, C# e manipulação de listas em console.
+> Desenvolvido no bootcamp **WEX - End to End Engineering (91h)**  
+> Um sistema simples, porém eficiente, para **controle e cadastro de veículos** em estacionamento.  
+> Praticando lógica, C# e manipulação de listas no console! 💡🚀
 
 ---
 
-## 🛠️ Tecnologias
+## 📋 **Descrição do Projeto**
 
-- 🖥️ C# (.NET 6.0)  
-- 💻 Visual Studio Code  
-- ⚙️ .NET CLI  
+Este sistema permite que você:
+
+- 🚙 **Adicione veículos** rapidamente usando o número da placa  
+- 🛑 **Remova veículos** calculando automaticamente o valor a pagar conforme o tempo estacionado ⏰💰  
+- 📄 **Liste todos os veículos** presentes no estacionamento, com facilidade e organização
 
 ---
 
-## 🚀 Como executar
+## 🛠️ **Tecnologias Utilizadas**
 
-1. Clone o repositório:
+- 🖥️ **C# (.NET 6.0)** — Plataforma poderosa para aplicações modernas  
+- 💻 **Visual Studio Code** — Ambiente leve e versátil para desenvolvimento  
+- ⚙️ **.NET CLI** — Para executar e gerenciar o projeto via linha de comando  
+
+---
+
+## 🚀 **Como Rodar o Projeto**
+
+1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/SistemaCadastroVeiculos.git
